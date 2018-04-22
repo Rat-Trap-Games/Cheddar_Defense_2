@@ -24,6 +24,7 @@ GameObject:
   - component: {fileID: 114453942998211080}
   - component: {fileID: 114593574260685338}
   - component: {fileID: 114416803425874578}
+  - component: {fileID: 114802652703143630}
   m_Layer: 13
   m_Name: Enemy Projectile
   m_TagString: Untagged
@@ -113,3 +114,19 @@ MonoBehaviour:
   alignment:
     unityObjectReference: {fileID: 11400000, guid: 9dc4735bf52f547d59ebe1007e9a0e7f,
       type: 2}
+--- !u!114 &114802652703143630
+MonoBehaviour:
+  m_ObjectHideFlags: 1
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 100100000}
+  m_GameObject: {fileID: 1797349743178286}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: b6a7e96a9b3d843afb6c41943cd8c20b, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  arcPreference: 0
+  fireMode: 0
+  firingAngle: 0
+  startSpeed: 0
+  collisionIgnoreTime: 0.35
