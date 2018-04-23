@@ -151,7 +151,7 @@ Transform:
   m_GameObject: {fileID: 1304972810206532}
   m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
   m_LocalPosition: {x: 0, y: 0, z: -0.00000011920903}
-  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_LocalScale: {x: 0.5, y: 0.5, z: 0.5}
   m_Children:
   - {fileID: 4033886752365058}
   m_Father: {fileID: 0}
@@ -458,8 +458,8 @@ MonoBehaviour:
   - {fileID: 114683032773000130, guid: 4c8e6569a85a64ba4b2c7687a7fa0a04, type: 2}
   towerName: Assault Cannon
   dimensions:
-    x: 2
-    y: 2
+    x: 1
+    y: 1
   enemyLayerMask:
     serializedVersion: 2
     m_Bits: 4294967295

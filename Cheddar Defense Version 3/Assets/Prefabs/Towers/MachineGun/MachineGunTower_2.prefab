@@ -949,7 +949,7 @@ MonoBehaviour:
   radiusEffectColor: {r: 0, g: 1, b: 1, a: 0.09803922}
 --- !u!136 &136819452830116608
 CapsuleCollider:
-  m_ObjectHideFlags: 1
+  m_ObjectHideFlags: 2
   m_PrefabParentObject: {fileID: 0}
   m_PrefabInternal: {fileID: 100100000}
   m_GameObject: {fileID: 1826625888503934}
